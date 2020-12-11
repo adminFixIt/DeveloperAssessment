@@ -52,11 +52,11 @@ I want to be able to view a submitted job
 So that I can be confident that I did not miss any details
 
 ##### Acceptance Criteria
-![ ] Retrieve data to display service information
+- [ ] Retrieve data to display service information
 
-![ ] Save data for client job
+- [ ] Save data for client job
 
-![ ] Retrieve data for client job with appropriate information
+- [ ] Retrieve data for client job with appropriate information
 
 ### Short Answers
 1. How many hours did you spend on this assessment? 
