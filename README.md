@@ -20,7 +20,7 @@ Your app must do the following:
 ### Platform Choice
 We are not restrictive on what platform you use for this assessment as long as it is a Web App that we can locally deploy.  We recommend the following however you can use what you are comfortable with.
 
-- .Net(Full Frameworkd or Core), PHP
+- .Net(Full Framework or Core), PHP
 
 ### Task Requirements
 Use the *User Stories* below in order to build your web app.  Your app must meet the following requirements:
