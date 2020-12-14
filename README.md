@@ -71,10 +71,10 @@ So that I can be confident that I did not miss any details
 - Additional Hour Rate: $65
 
 ###### Job Data
-- Details that a contractor would need
-- Location
+- Section that collects details that a contractor would need to perform a job
+- Location that the service is to take place
 - Day of service
-- **Optional** Adding an image
+- **Optional** - Adding an image
 
 ### Short Answers
 1. How many hours did you spend on this assessment? 
