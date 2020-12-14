@@ -13,15 +13,16 @@ In order to ensure that you can deliver your assessment, you will be added to a 
 You are tasked with building a simple web application that mimicks the FixIt Service Pros web app.  You are to build an App that will allow a client to book a service job and then after the job is booked they are able to view their booked job in a user friendly format. 
 
 Your app must do the following:
-- Allow a customer to select a service type that includes an hourly price (e.g. Plumbing, Eletrical, etc)
-- Save the customers detail and service category
-- Load the customers submitted job
-- Appropriate Validation
+- Allow a customer to select a service type that includes an hourly price (e.g. Plumbing, Eletrical, etc) -> See sample data below
+- Save the customer's detail and service category
+- Load the customer's job after is has been submitted to the application
+- Appropriate validation for the submission
 
 ### Platform Choice
 We are not restrictive on what platform you use for this assessment as long as it is a Web App that we can locally deploy.  We recommend the following however you can use what you are comfortable with.
 
-- .Net(Full Framework or Core), PHP
+- .Net(Full Framework or Core) 
+- PHP
 
 ### Task Requirements
 Use the *User Stories* below in order to build your web app.  Your app must meet the following requirements:
@@ -57,6 +58,23 @@ So that I can be confident that I did not miss any details
 - [ ] Save data for client job
 
 - [ ] Retrieve data for client job with appropriate information
+
+##### Sample Data
+###### Services
+**You are not required to build an interface to add service categories. You can manually input the data into your preferred database**
+- Name: Plumbing
+- Initial Hour Rate: $110
+- Additional Hour Rate: $85
+
+- Name: Handyman
+- Initial Hour Rate: $90
+- Additional Hour Rate: $65
+
+###### Job Data
+- Details that a contractor would need
+- Location
+- Day of service
+- **Optional** Adding an image
 
 ### Short Answers
 1. How many hours did you spend on this assessment? 
