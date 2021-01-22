@@ -23,6 +23,7 @@ We are not restrictive on what platform you use for this assessment as long as i
 
 - .Net(Full Framework or Core) 
 - PHP
+- Relational Database (SQL or MySQL preferred)
 
 ### Task Requirements
 Use the *User Stories* below in order to build your web app.  Your app must meet the following requirements:
